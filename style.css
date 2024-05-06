@@ -1,0 +1,50 @@
+.title {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.uname {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.name {
+    font-size: 30px;
+    display: flex;
+    margin-left: 41%;
+}
+
+.question {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    margin-top: 12%;
+}
+
+.options {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.result {
+    color: white;
+    font-family: 'Franklin Gothic Medium';
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background: url(https://clever-light.ru/img/co/145.jpg) no-repeat center center fixed; background-size: cover
+}
